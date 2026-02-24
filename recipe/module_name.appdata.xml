@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+    <id>module_name</id>
+    <metadata_license>GPL-3.0</metadata_license>
+    <project_license>GPL-3.0</project_license></project_license>
+    <name>module_name</name>
+    <summary>A standalone executable made from python</summary>
+    <description>
+        <p>  just a demo
+        </p>
+    </description>
+    <launchable type="desktop-id">module_name.desktop</launchable>
+    <url type="homepage">https://github.com/softcookiepp/cookie-python-executable-template</url>
+    <provides>
+        <binary>python{{ python-version }}</binary>
+    </provides>
+</component>

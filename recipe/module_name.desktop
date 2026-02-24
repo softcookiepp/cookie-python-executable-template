@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=module_name
+Exec=module_name
+Comment=just a demo
+Icon=python
+Categories=Science;
+Terminal=true
